@@ -7,7 +7,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%40Ram_Nikhil_RN-blue.svg)](https://twitter.com/Ram_Nikhil_RN)
 [![Instagram](https://img.shields.io/badge/Instagram-ram_nikhil_rn-orange.svg)](https://www.instagram.com/ram_nikhil_rn/)
 [![Facebook](https://img.shields.io/badge/Facebook-Ram%20Nikhil-blue.svg)](https://www.facebook.com/ramnikhilpalasetty)
-- 📫 you can reach me on ramnikhil786@gmail.com
+- 📫 you can reach me through mail on ramnikhil786@gmail.com
 
 
 <!---
