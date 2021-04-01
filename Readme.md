@@ -1,13 +1,13 @@
 - 👋 Hi, I’m Ram Nikhil 
 - 👀 I’m interested in :video_game:,:computer:,:iphone: and lot more things
 - 🌱 I’m currently learning :book: many things in my day to day life with those I am learning Games development, Android and SQL(DB):floppy_disk:
-- 💞️ I’m looking to collaborate on projects for games development :video_game: /other if it is a interesting one.
+- 💞️ I’m looking to collaborate on projects for games development :video_game: /other if it is an interesting one.
 -  :couple: Are you Social Media Person then instead of mailing me catch me up on below social media platforms
 
 [![Twitter](https://img.shields.io/badge/Twitter-%40Ram_Nikhil_RN-blue.svg)](https://twitter.com/Ram_Nikhil_RN)
 [![Instagram](https://img.shields.io/badge/Instagram-ram_nikhil_rn-orange.svg)](https://www.instagram.com/ram_nikhil_rn/)
 [![Facebook](https://img.shields.io/badge/Facebook-Ram%20Nikhil-blue.svg)](https://www.facebook.com/ramnikhilpalasetty)
-- 📫 you can reach me through mail on ramnikhil786@gmail.com
+- 📫 you can reach me through mail at ramnikhil786@gmail.com
 
 
 <!---
