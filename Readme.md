@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ram Nikhil 
 - 👀 I’m interested in :video_game:,:computer:,:iphone: and lot more things
-- 🌱 I’m currently learning :book: many things in my day to day life with those I am also learning Games development, Android and SQL(DB):floppy_disk:
+- 🌱 I’m currently learning :book: many things in my day to day life with those I am also learning Games development, ML, Data sets classifers, Android and SQL(DB):floppy_disk:
 - 💞️ I’m looking to collaborate on projects for games development :video_game: /other if it is an interesting one.
 -  :couple: Are you Social Media Person then instead of mailing me catch me up on below social media platforms
 
